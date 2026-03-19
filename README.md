@@ -51,5 +51,33 @@ Wild_Pecan_Pangenome/
 ## Contact
 
 Karl Fetter — karl.fetter@usda.gov
-USDA ARS Southeast Area, Byron, GA
+Research Geneticist
 Tree Genomics Lab
+USDA ARS Southeastern Fruit & Tree Nut Research Station
+Byron, GA
+
+## Collaborators
+
+Cristina Pisani - cristina.pisani@usda.gov
+Research Horticulturist
+USDA ARS Southeastern Fruit & Tree Nut Research Station
+Byron, GA
+
+Jeeking Lau- jeekin.lau@usda.gov
+Research Geneticist
+USDA ARS Southeastern Fruit & Tree Nut Research Station
+Byron, GA
+
+Roth Conrad
+USDA ARS Postdoctoral Fellow
+Genome Biology Research Unit
+Athens, GA
+
+Gaurab Bhattarai
+Assistant Professor
+Oregon State University
+Corvalis, OR
+
+
+
+
