@@ -48,15 +48,13 @@ Wild_Pecan_Pangenome/
 
 ---
 
-## Contact
+## Contact & Collaborators
 
 Karl Fetter — karl.fetter@usda.gov \
 Research Geneticist \
 Tree Genomics Lab \
 USDA ARS Southeastern Fruit & Tree Nut Research Station \
 Byron, GA
-
-## Collaborators
 
 Cristina Pisani - cristina.pisani@usda.gov \
 Research Horticulturist \
